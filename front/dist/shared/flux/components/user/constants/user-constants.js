@@ -1,0 +1,12 @@
+'use strict';
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+var ACTIONS = {
+  LOGIN: 'USER LOGIN',
+  LOGOUT: 'USER LOGOUT'
+};
+
+exports.default = ACTIONS;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uLy4uL3NyYy9zaGFyZWQvZmx1eC9jb21wb25lbnRzL3VzZXIvY29uc3RhbnRzL3VzZXItY29uc3RhbnRzLmpzIl0sIm5hbWVzIjpbIkFDVElPTlMiLCJMT0dJTiIsIkxPR09VVCJdLCJtYXBwaW5ncyI6Ijs7Ozs7QUFBQSxJQUFNQSxVQUFVO0FBQ2RDLFNBQU8sWUFETztBQUVkQyxVQUFRO0FBRk0sQ0FBaEI7O2tCQUtlRixPIiwiZmlsZSI6InVzZXItY29uc3RhbnRzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiY29uc3QgQUNUSU9OUyA9IHtcbiAgTE9HSU46ICdVU0VSIExPR0lOJyxcbiAgTE9HT1VUOiAnVVNFUiBMT0dPVVQnLFxufTtcblxuZXhwb3J0IGRlZmF1bHQgQUNUSU9OUztcbiJdfQ==
